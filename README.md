@@ -35,8 +35,8 @@ Users should be able to:
 This is the screenshot of the challenge solution by me.
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontend Mentor Solution: [URL](https://www.frontendmentor.io/solutions/css-html-B5t-QZyOz)
+- Live Site: [URl](https://v-codey.github.io/FEM-3-card-component/)
 
 ## My process
 
@@ -82,8 +82,4 @@ To see code snippets, see below:
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@v-codey](https://www.frontendmentor.io/profile/v-codey)
-
-
